@@ -1,0 +1,52 @@
+{
+  "common": {
+    "appName": "Auth & Chat App",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "chat": "Chat",
+    "send": "Send",
+    "loading": "Loading...",
+    "errorOccurred": "An error occurred",
+    "switchLanguage": "Switch to Russian"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Enter your credentials to access your account",
+    "registerTitle": "Create Account",
+    "registerSubtitle": "Sign up to get started",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?",
+    "registerSuccess": "Registration successful! Please login."
+  },
+  "profile": {
+    "title": "Your Profile",
+    "emailLabel": "Email Address",
+    "registrationDate": "Registration Date",
+    "subscriptions": "Your Subscriptions",
+    "noSubscriptions": "No active subscriptions"
+  },
+  "chat": {
+    "title": "Chat",
+    "placeholder": "Type a message...",
+    "emptyChat": "No messages yet. Start a conversation!",
+    "user": "You",
+    "ai": "AI Assistant"
+  },
+  "validation": {
+    "email": {
+      "required": "Email is required",
+      "invalid": "Please enter a valid email"
+    },
+    "password": {
+      "required": "Password is required",
+      "tooShort": "Password must be at least 6 characters",
+      "noMatch": "Passwords do not match"
+    }
+  }
+}
